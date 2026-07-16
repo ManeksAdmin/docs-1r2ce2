@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-npfyv4.maidesk.net/sitemap.xml
